@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*  agregar las directivas implementadas por tailwind que descarga maricadas de fondo y trabaja con ellas  */
